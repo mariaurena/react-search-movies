@@ -1,3 +1,7 @@
+Siguiendo tutorial de midudev disponible en:
+
+https://github.com/midudev/aprendiendo-react
+
 Enunciado
 
 Crea una aplicación para buscar películas
