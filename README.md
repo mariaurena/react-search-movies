@@ -1,3 +1,5 @@
+# Buscador de peliculas con react
+
 Siguiendo tutorial de midudev disponible en:
 
 https://github.com/midudev/aprendiendo-react
